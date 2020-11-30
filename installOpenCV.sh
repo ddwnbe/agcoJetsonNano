@@ -6,4 +6,4 @@
 # download and run it manually, if edits are wanted
 git clone https://github.com/mdegans/nano_build_opencv
 cd nano_build_opencv
-./nano_build_opencv
+./build_opencv.sh
