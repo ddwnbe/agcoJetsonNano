@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-# AGCO ddwnbe 2020
+#!/usr/bin/bash
+# AGCO 2020
 
 # this script installs opencv. be aware that it takes ~3 hours to finish
 # before running this script, check the link and look at the file
@@ -7,3 +7,4 @@
 git clone https://github.com/mdegans/nano_build_opencv
 cd nano_build_opencv
 ./build_opencv.sh
+reboot

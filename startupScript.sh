@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-# AGCO ddwnbe 2020
+#!/usr/bin/bash
+# AGCO 2020
 
 # part 1: update and upgrade necessary modules/packages
 sudo apt-get update
